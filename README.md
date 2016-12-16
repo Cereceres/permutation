@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.org/Cereceres/permutation.svg?branch=master)](https://travis-ci.org/Cereceres/permutation)
 # permutation
 make permutation of a array given.
 ## Install
