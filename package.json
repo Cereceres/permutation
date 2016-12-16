@@ -1,5 +1,5 @@
 {
-  "name": "array-permutation",
+  "name": "arraypermutation-node",
   "version": "0.0.1",
   "description": "permutate a array given",
   "main": "index.js",

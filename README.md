@@ -4,13 +4,13 @@ make permutation of a array given.
 ## Install
 This method permutate the item in a array given
 ```bash
-$ npm install array-permutation
+$ npm install arraypermutation-node
 ```
 
 ## Usage
 
 ```js
-const permutate  = require('array-permutation')
+const permutate  = require('arraypermutation-node')
 permutate.right([1,2]) // -> [2,1]
 permutate.right([1,2,3,4,5,6]) // -> [6,1,2,3,4,5]  
 permutate.left([1,2]) // -> [2,1]
