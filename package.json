@@ -1,0 +1,27 @@
+{
+  "name": "array-permutation",
+  "version": "0.0.1",
+  "description": "permutate a array given",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cereceres/permutation.git"
+  },
+  "keywords": [
+    "permutation",
+    "permutate",
+    "right",
+    "left",
+    "array",
+    "cylic"
+  ],
+  "author": "Jesus Cereceres",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Cereceres/permutation/issues"
+  },
+  "homepage": "https://github.com/Cereceres/permutation#readme"
+}
