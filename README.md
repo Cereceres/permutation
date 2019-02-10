@@ -21,5 +21,5 @@ permutate.right([1]) // [1]
 ## API Documentation permutation -> object
 ### permutation.right(array) -> array
 The param is the right what will be permutated to right. The array is passed by reference.
-### permutation.right(array) -> array
-The param is the right what will be permutated to left. The array is passed by reference.
+### permutation.left(array) -> array
+The param is the left what will be permutated to left. The array is passed by reference.
